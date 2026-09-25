@@ -1,4 +1,4 @@
-# CAT ZUT Results Tracker (ZUT-RT)
+#ZUT Results Tracker (ZUT-RT)
 
 ## Project Overview
 ZUT-RT is a proposed web-based platform for improving the publication, tracking and viewing of student results.
